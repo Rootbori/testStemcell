@@ -1,0 +1,29 @@
+.l {
+    @apply text-left;
+}
+
+.c {
+    @apply text-center;
+}
+
+.r {
+    @apply text-right;
+}
+
+.b {
+    @apply font-bold;
+}
+
+.middle {
+    @apply flex justify-center items-center;
+}
+
+.right {
+    @apply flex justify-end items-center;
+}
+
+.left {
+    @apply flex justify-start items-center;
+}
+
+
